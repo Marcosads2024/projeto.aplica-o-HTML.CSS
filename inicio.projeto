@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    
+</headmain>
+        <display:grid></display:grid>
+    
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MusicMania</title>
+    
+
+    
+    <style>
+
+        body {
+            
+     background-image:url("musica--guitarra_6970_1600x1200.JPG");
+}
+
+                          
+
+                        
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-color: #f4f4f4;
+
+            /* Adicione a imagem de fundo */
+
+            background-image: url('pngtree-blue-silk-texture-creative-abstract-light-effect-musical-notes-background-image_753169.JPG');
+
+            /* Ajuste a posição e a repetição da imagem de fundo conforme necessário */
+
+            background-position: center;
+
+            background-size: cover;
+
+        }
+
+        .container {
+
+            max-width: 800px;
+
+            margin: 0 auto;
+
+            padding: 20px;
+
+        }
+
+        h1 {
+
+            text-align: center;
+
+            color: #192ae3;
+
+        }
+
+        ul {
+
+            list-style-type: none;
+
+            padding: 0;
+
+        }
+
+        li {
+
+            margin-bottom: 10px;S
+
+        }
+
+        a {
+
+            color: #ced5dd;
+
+            text-decoration: none;
+
+        }
+
+        a:hover {
+
+            text-decoration: underline;
+
+        }
+
+        /* Estilo para as divs com links */
+
+        .link-container {
+
+            margin-top: 20px;
+
+            text-align: center;
+
+        }
+
+        .link-container a {
+
+            display: block;
+
+            margin-bottom: 10px;
+
+        }
+
+    </style>
+
+    
+</head>
+
+<body>
+
+
+
+
+<div class="container">
+
+    <h1>Bem vindo a Music Mania !</h1>
+
+
+
+
+    <h2>Sobre nós::</h2>
+
+    <p>Music Mania é o seu destino online para descobrir novas músicas, explorar bandas favoritas e criar playlists personalizadas.</p>
+
+
+
+
+    <h2>Nossas playlists em destaque:</h2>
+st
+    <ul>
+        <li><a href="https://www.antena1.com.br/artistas/beatles/">biografia  beatles</a></li>
+        <li><a href="https://www.antena1.com.br/artistas/led-zeppelin/">biografia Led zeppelim</a></li>
+        <li><a href="https://www.antena1.com.br/artistas/rolling-stones/">biografia Rolling stones</a></li>
+        <li><a href="https://www.antena1.com.br/artistas/u2/">biografia U2</a></li>
+        <li><a href="https://www.antena1.com.br/artistas/eric-clapton/">biografia Eric clapton</a></li>
+        <li><a href="https://www.antena1.com.br/artistas/dire-straits/">biografia Dire Straits</a></li>
+    
+        
+      </ul>
+
+
+
+    <h2>Minhas bandas favoritas:</h2>
+
+    <ul>
+
+     <li><ahref='https://www.ebiografia.com/the_beatles"/</a></li>
+        <li>Queen</li>
+
+        <li>Led Zeppelin</li>
+
+        <li>Arctic Monkeys</li>
+
+        <li>Radiohead</li>
+
+    </ul>
+
+
+
+
+    <h2>Top 10 melhores musicas do momento:</h2>
+
+    <ol>
+
+        <li>
+            <audio src=""></audio>
+        </li>
+
+        <li><a href="#">Dance Monkey - Tones and I</a></li>
+
+        <li><a href="#">Don't Start Now - Dua Lipa</a></li>
+
+        <li><a href="#">Watermelon Sugar - Harry Styles</a></li>
+
+        <li><a href="#">Shape of You - Ed Sheeran</a></li>
+
+        <li><a href="#">Someone You Loved - Lewis Capaldi</a></li>
+
+        <li><a href="#">Old Town Road - Lil Nas X ft. Billy Ray Cyrus</a></li>
+
+        <li><a href="#">Savage Love (Laxed - Siren Beat) - Jawsh 685 x Jason Derulo</a></li>
+
+        <li><a href="#">Rockstar - DaBaby ft. Roddy Ricch</a></li>
+
+        <li><a href="#">Memories - Maroon 5</a></li>
+
+    </ol>
+
+
+
+
+    <!-- Divs com links -->
+
+    <div class="link-container">
+
+        <div><a href="#">Link 1</a></div>
+
+        <div><a href="#">Link 2</a></div>
+
+        <div><a href="#">Link 3</a></div>
+
+    </div>
+
+</div>
+
+
+
+
+</body>
+
+</html>
